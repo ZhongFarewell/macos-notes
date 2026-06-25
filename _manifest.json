@@ -168,7 +168,15 @@
       "file": "records/01KVYAH35G565EG4NDXSBSRSXG.json",
       "sha": "e550f2759f6d14ad4d2abd87fc52742e9426c34b",
       "updatedAt": "2026-06-25T02:43:46.671Z"
+    },
+    {
+      "id": "01KVYAH35GM6X18A63DHSE8GJC",
+      "type": "browser:bookmark",
+      "singleton": false,
+      "file": "records/01KVYAH35GM6X18A63DHSE8GJC.json",
+      "sha": "318bf5b473b8a4deb4f147d9d0347054473201e0",
+      "updatedAt": "2026-06-25T02:43:49.733Z"
     }
   ],
-  "sha": "edf3e1ec0f251b9f9b607ea32549ba35e268f8ea"
+  "sha": "45bcf68b36fd215eabdf2a1b0fd3998e5246afcd"
 }
