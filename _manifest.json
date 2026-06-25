@@ -8,7 +8,15 @@
       "file": "records/01KVY437F5AQYQ7D91X88MH8XV.json",
       "sha": "865a3b0c0f1fefab0cedb38ada299c1d867df040",
       "updatedAt": "2026-06-25T01:00:58.754Z"
+    },
+    {
+      "id": "01KVYAH35GC0P1W513PPX5KDD5",
+      "type": "browser:bookmark",
+      "singleton": false,
+      "file": "records/01KVYAH35GC0P1W513PPX5KDD5.json",
+      "sha": "7660499926d9f77766c09f2cc0b99cbb5356ee26",
+      "updatedAt": "2026-06-25T02:42:47.041Z"
     }
   ],
-  "sha": "461b97213a417e8fe395b568c994a6334dbc3e8c"
+  "sha": "7e86f588199f7aa62b9b5fa34d4f9b45a9bb5c52"
 }
