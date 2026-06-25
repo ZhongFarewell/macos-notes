@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35GRXC21RDM7VYV90X8",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "Github",
+    "link": "https://github.com/",
+    "img": "img/sites/github.svg",
+    "section": "freq",
+    "order": 0
+  },
+  "createdAt": "2026-06-25T02:43:43.746Z",
+  "updatedAt": "2026-06-25T02:43:43.746Z"
+}
