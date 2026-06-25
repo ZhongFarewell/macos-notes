@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35GBEFP3PKQ0CA6Q68N",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "Steam",
+    "link": "https://store.steampowered.com/",
+    "img": "img/sites/steam.svg",
+    "section": "freq",
+    "order": 14
+  },
+  "createdAt": "2026-06-25T02:43:31.549Z",
+  "updatedAt": "2026-06-25T02:43:31.549Z"
+}
