@@ -1,0 +1,14 @@
+{
+  "id": "01KVYAH35GVEF5CRYVPXA0NEDY",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "AI Deadlines",
+    "link": "https://aideadlin.es/",
+    "img": "https://aideadlin.es/static/img/favicon.png",
+    "inner": true,
+    "section": "freq",
+    "order": 12
+  },
+  "createdAt": "2026-06-25T02:43:25.873Z",
+  "updatedAt": "2026-06-25T02:43:25.873Z"
+}
