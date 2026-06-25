@@ -10,22 +10,6 @@
       "updatedAt": "2026-06-25T01:00:58.754Z"
     },
     {
-      "id": "01KVYAH35GMA5P0XYF6F7GEPSZ",
-      "type": "browser:bookmark",
-      "singleton": false,
-      "file": "records/01KVYAH35GMA5P0XYF6F7GEPSZ.json",
-      "sha": "de91449b0824698fdeac9f914d4de387bf8b5b66",
-      "updatedAt": "2026-06-25T02:42:56.276Z"
-    },
-    {
-      "id": "01KVYAH35G8MC1AMRYAQTQ8CGD",
-      "type": "browser:bookmark",
-      "singleton": false,
-      "file": "records/01KVYAH35G8MC1AMRYAQTQ8CGD.json",
-      "sha": "66b01d22d5b865888639eac01a38d1c97f765cc0",
-      "updatedAt": "2026-06-25T02:42:59.975Z"
-    },
-    {
       "id": "01KVYAH35G5TY5JFX7H9DSNXAR",
       "type": "browser:bookmark",
       "singleton": false,
@@ -210,5 +194,5 @@
       "updatedAt": "2026-06-25T02:44:51.991Z"
     }
   ],
-  "sha": "143bae245fd49aade1fa01ca32374bbea82b808d"
+  "sha": "d4a5f29257a898440fc778cce51e7a3372fead05"
 }
