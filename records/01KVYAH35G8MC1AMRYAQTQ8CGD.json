@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35G8MC1AMRYAQTQ8CGD",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "Pinterest",
+    "link": "https://www.pinterest.com/",
+    "img": "img/sites/pinterest.svg",
+    "section": "freq",
+    "order": 4
+  },
+  "createdAt": "2026-06-25T02:42:59.975Z",
+  "updatedAt": "2026-06-25T02:42:59.975Z"
+}
