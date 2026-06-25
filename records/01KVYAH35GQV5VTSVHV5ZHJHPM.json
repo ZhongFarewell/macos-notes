@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35GQV5VTSVHV5ZHJHPM",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "LeetCode",
+    "link": "https://leetcode.com/",
+    "img": "img/sites/leetcode.svg",
+    "section": "freq",
+    "order": 8
+  },
+  "createdAt": "2026-06-25T02:43:13.028Z",
+  "updatedAt": "2026-06-25T02:43:13.028Z"
+}
