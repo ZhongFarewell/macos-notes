@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35G565EG4NDXSBSRSXG",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "arXiv",
+    "link": "https://arxiv.org/",
+    "img": "img/sites/arxiv.png",
+    "section": "freq",
+    "order": 1
+  },
+  "createdAt": "2026-06-25T02:43:46.671Z",
+  "updatedAt": "2026-06-25T02:43:46.671Z"
+}
