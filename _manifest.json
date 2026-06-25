@@ -80,7 +80,15 @@
       "file": "records/01KVYAH35GQV5VTSVHV5ZHJHPM.json",
       "sha": "a7c59b40aa4acf7e0a04cd710d9a92d0d464e621",
       "updatedAt": "2026-06-25T02:43:13.028Z"
+    },
+    {
+      "id": "01KVYAH35GTSCHB9KR5GBKETQ5",
+      "type": "browser:bookmark",
+      "singleton": false,
+      "file": "records/01KVYAH35GTSCHB9KR5GBKETQ5.json",
+      "sha": "c8c603df0387d91d502e8216e370a2865fd1a2f3",
+      "updatedAt": "2026-06-25T02:43:16.329Z"
     }
   ],
-  "sha": "c65a4ea26ef6cbf9b79b160c6ff1a97e30532ba6"
+  "sha": "424631d3f3593d289a348578e464d6a2d6bb0573"
 }
