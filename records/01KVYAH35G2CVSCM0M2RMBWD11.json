@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35G2CVSCM0M2RMBWD11",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "知乎",
+    "link": "https://www.zhihu.com/",
+    "img": "img/sites/zhihu.jpeg",
+    "section": "freq",
+    "order": 7
+  },
+  "createdAt": "2026-06-25T02:44:03.930Z",
+  "updatedAt": "2026-06-25T02:44:03.930Z"
+}
