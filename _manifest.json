@@ -150,9 +150,9 @@
       "type": "system:wallpaper",
       "singleton": true,
       "file": "records/system:wallpaper.json",
-      "sha": "45f80100ce43147099a236de58e101ec9b9a5cd5",
-      "updatedAt": "2026-06-26T08:01:24.117Z"
+      "sha": "0c55b6d97d4fee29209904bad70347397b059136",
+      "updatedAt": "2026-06-26T08:27:01.566Z"
     }
   ],
-  "sha": "ae6f6fac3afeb5f694623f06a7bb35eb8e1bb2b0"
+  "sha": "c9350b5ec50b8e895e8481cdabf952c44b19ed41"
 }
