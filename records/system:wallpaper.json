@@ -2,12 +2,12 @@
   "id": "system:wallpaper",
   "type": "system:wallpaper",
   "data": {
-    "current": null,
+    "current": "/align-minio/memoryimage/75b951f22850979b18dae0ec4e32b24f.jpeg",
     "photos": [
       "/align-minio/memoryimage/75b951f22850979b18dae0ec4e32b24f.jpeg",
       "/align-minio/memoryimage/49b171c2ef0c3b298df8d7221520c08a.jpeg"
     ]
   },
   "createdAt": "2026-06-26T08:01:24.116Z",
-  "updatedAt": "2026-06-26T08:38:27.461Z"
+  "updatedAt": "2026-06-26T08:47:14.823Z"
 }
