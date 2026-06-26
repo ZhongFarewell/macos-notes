@@ -144,7 +144,15 @@
       "file": "records/user:profile.json",
       "sha": "2c4db08915e8be6276cf52ea9c45004b0506eae0",
       "updatedAt": "2026-06-26T03:19:22.393Z"
+    },
+    {
+      "id": "system:wallpaper",
+      "type": "system:wallpaper",
+      "singleton": true,
+      "file": "records/system:wallpaper.json",
+      "sha": "45f80100ce43147099a236de58e101ec9b9a5cd5",
+      "updatedAt": "2026-06-26T08:01:24.117Z"
     }
   ],
-  "sha": "d6e742d53b35404aef2de4e44987bb0789c0325c"
+  "sha": "ae6f6fac3afeb5f694623f06a7bb35eb8e1bb2b0"
 }
