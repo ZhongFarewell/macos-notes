@@ -2,12 +2,13 @@
   "id": "system:wallpaper",
   "type": "system:wallpaper",
   "data": {
-    "current": "/align-minio/memoryimage/75b951f22850979b18dae0ec4e32b24f.jpeg",
+    "current": "/align-minio/memoryimage/34eb2f3eec764175f0ad6cd4b747378d.jpeg",
     "photos": [
+      "/align-minio/memoryimage/34eb2f3eec764175f0ad6cd4b747378d.jpeg",
       "/align-minio/memoryimage/75b951f22850979b18dae0ec4e32b24f.jpeg",
       "/align-minio/memoryimage/49b171c2ef0c3b298df8d7221520c08a.jpeg"
     ]
   },
   "createdAt": "2026-06-26T08:01:24.116Z",
-  "updatedAt": "2026-06-26T08:47:14.823Z"
+  "updatedAt": "2026-06-26T08:49:02.753Z"
 }
