@@ -3,9 +3,12 @@
   "type": "finder:entry",
   "data": {
     "name": "untitled folder",
-    "parentId": "root",
-    "kind": "folder"
+    "parentId": "trash",
+    "kind": "folder",
+    "trashed": true,
+    "trashedAt": "2026-06-30T06:59:05.149Z",
+    "originalParentId": "root"
   },
   "createdAt": "2026-06-30T06:59:01.631Z",
-  "updatedAt": "2026-06-30T06:59:01.632Z"
+  "updatedAt": "2026-06-30T06:59:05.493Z"
 }
