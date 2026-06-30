@@ -3,9 +3,12 @@
   "type": "finder:entry",
   "data": {
     "name": "New Folder 1449",
-    "parentId": "01KWBMBWW15WHYDZ22HWXGQTJ6",
-    "kind": "folder"
+    "parentId": "trash",
+    "kind": "folder",
+    "trashed": true,
+    "trashedAt": "2026-06-30T06:58:26.517Z",
+    "originalParentId": "01KWBMBWW15WHYDZ22HWXGQTJ6"
   },
   "createdAt": "2026-06-30T06:49:59.593Z",
-  "updatedAt": "2026-06-30T06:49:59.596Z"
+  "updatedAt": "2026-06-30T06:58:28.519Z"
 }
