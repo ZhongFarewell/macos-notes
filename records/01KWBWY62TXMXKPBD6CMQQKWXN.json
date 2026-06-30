@@ -3,15 +3,18 @@
   "type": "finder:entry",
   "data": {
     "name": "untitled.md",
-    "parentId": "01KWBMBWVX6TKCW3TYT1Q51QAG",
+    "parentId": "trash",
     "kind": "file",
     "blob": {
       "file": "blobs/01KWBWXXBB2J7Z2W007HA1BFJ5.md",
       "sha": "ee50c74cb1bcf58d17062c445b061bb5f9ca3d9e"
     },
     "ext": "md",
-    "size": 49
+    "size": 49,
+    "trashed": true,
+    "trashedAt": "2026-06-30T09:25:58.650Z",
+    "originalParentId": "01KWBMBWVX6TKCW3TYT1Q51QAG"
   },
   "createdAt": "2026-06-30T09:14:35.994Z",
-  "updatedAt": "2026-06-30T09:14:35.995Z"
+  "updatedAt": "2026-06-30T09:25:58.651Z"
 }
