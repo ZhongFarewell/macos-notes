@@ -3,9 +3,12 @@
   "type": "finder:entry",
   "data": {
     "name": "Aling",
-    "parentId": "01KWBMBWW1KXHFD7RD4QWZX5MG",
-    "kind": "folder"
+    "parentId": "trash",
+    "kind": "folder",
+    "trashed": true,
+    "trashedAt": "2026-06-30T07:44:03.770Z",
+    "originalParentId": "01KWBMBWW1KXHFD7RD4QWZX5MG"
   },
   "createdAt": "2026-06-30T07:26:31.518Z",
-  "updatedAt": "2026-06-30T07:26:43.620Z"
+  "updatedAt": "2026-06-30T07:44:03.770Z"
 }
