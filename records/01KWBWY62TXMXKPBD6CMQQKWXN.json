@@ -1,0 +1,17 @@
+{
+  "id": "01KWBWY62TXMXKPBD6CMQQKWXN",
+  "type": "finder:entry",
+  "data": {
+    "name": "untitled.md",
+    "parentId": "01KWBMBWVX6TKCW3TYT1Q51QAG",
+    "kind": "file",
+    "blob": {
+      "file": "blobs/01KWBWXXBB2J7Z2W007HA1BFJ5.md",
+      "sha": "ee50c74cb1bcf58d17062c445b061bb5f9ca3d9e"
+    },
+    "ext": "md",
+    "size": 49
+  },
+  "createdAt": "2026-06-30T09:14:35.994Z",
+  "updatedAt": "2026-06-30T09:14:35.995Z"
+}
