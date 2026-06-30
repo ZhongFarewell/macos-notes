@@ -1,0 +1,17 @@
+{
+  "id": "01KWBWVQ9BC7FNK979HJCZ886M",
+  "type": "finder:entry",
+  "data": {
+    "name": "更新日志.txt",
+    "parentId": "01KWBMBWVX6TKCW3TYT1Q51QAG",
+    "kind": "file",
+    "blob": {
+      "file": "blobs/01KWBWVNTY494K6344E4H9M2SQ.txt",
+      "sha": "7766ffede413652bf12a35eaac4710d492d9cd67"
+    },
+    "ext": "txt",
+    "size": 6
+  },
+  "createdAt": "2026-06-30T09:13:15.308Z",
+  "updatedAt": "2026-06-30T09:13:15.308Z"
+}
