@@ -7,8 +7,12 @@
     "kind": "file",
     "ext": "mp4",
     "size": 1126623,
-    "uploading": true
+    "uploading": false,
+    "blob": {
+      "file": "blobs/01KWE10RDN0RR9M7M8PN060J73.mp4",
+      "sha": "7d5a210441c91b9e1b399722cfe6385fa94c2887"
+    }
   },
   "createdAt": "2026-07-01T05:04:23.477Z",
-  "updatedAt": "2026-07-01T05:04:23.479Z"
+  "updatedAt": "2026-07-01T05:04:29.539Z"
 }
