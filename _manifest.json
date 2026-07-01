@@ -272,7 +272,15 @@
       "file": "records/01KWC1C8KCME1WJZGE4WHZEA8S.json",
       "sha": "8b6fa1a8396dc8d366033b737706627216632273",
       "updatedAt": "2026-06-30T10:32:24.482Z"
+    },
+    {
+      "id": "01KWDRFA4N33S53EDQ3G9EJJER",
+      "type": "finder:entry",
+      "singleton": false,
+      "file": "records/01KWDRFA4N33S53EDQ3G9EJJER.json",
+      "sha": "3c70938cb24ef175f142680c010a00ee9e66bc0b",
+      "updatedAt": "2026-07-01T02:35:03.190Z"
     }
   ],
-  "sha": "c31ba3adce40cf709eafbab39d28d851032e8097"
+  "sha": "e415d14a6061f1dc3e6802bccfdaab7d9a1e60cf"
 }
