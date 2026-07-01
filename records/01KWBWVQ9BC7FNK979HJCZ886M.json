@@ -3,15 +3,18 @@
   "type": "finder:entry",
   "data": {
     "name": "更新日志.txt",
-    "parentId": "01KWBMBWVX6TKCW3TYT1Q51QAG",
+    "parentId": "trash",
     "kind": "file",
     "blob": {
       "file": "blobs/01KWBWVNTY494K6344E4H9M2SQ.txt",
       "sha": "7766ffede413652bf12a35eaac4710d492d9cd67"
     },
     "ext": "txt",
-    "size": 6
+    "size": 6,
+    "trashed": true,
+    "trashedAt": "2026-07-01T03:18:02.476Z",
+    "originalParentId": "01KWBMBWVX6TKCW3TYT1Q51QAG"
   },
   "createdAt": "2026-06-30T09:13:15.308Z",
-  "updatedAt": "2026-06-30T09:13:15.308Z"
+  "updatedAt": "2026-07-01T03:18:03.084Z"
 }
