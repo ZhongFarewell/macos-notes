@@ -7,8 +7,12 @@
     "kind": "file",
     "ext": "jpg",
     "size": 187383,
-    "uploading": true
+    "uploading": false,
+    "blob": {
+      "file": "blobs/01KWDV0FEXQCZG23YPQEADY874.jpg",
+      "sha": "e630fddcd993ea51871a543f7a63a39509da5d5e"
+    }
   },
   "createdAt": "2026-07-01T03:19:22.845Z",
-  "updatedAt": "2026-07-01T03:19:22.846Z"
+  "updatedAt": "2026-07-01T03:19:29.481Z"
 }
