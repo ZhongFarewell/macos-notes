@@ -7,8 +7,12 @@
     "kind": "file",
     "ext": "mp3",
     "size": 2953077,
-    "uploading": true
+    "uploading": false,
+    "blob": {
+      "file": "blobs/01KWDRFA4N33S53EDQ3G9EJJER.mp3",
+      "sha": "5eb784f315970b1ebe18b28b5bedf0460f97bbb0"
+    }
   },
   "createdAt": "2026-07-01T02:35:03.189Z",
-  "updatedAt": "2026-07-01T02:35:03.190Z"
+  "updatedAt": "2026-07-01T02:35:12.453Z"
 }
