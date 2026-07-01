@@ -218,46 +218,6 @@
       "updatedAt": "2026-06-30T08:31:25.595Z"
     },
     {
-      "id": "01KWBWVQ9BC7FNK979HJCZ886M",
-      "type": "finder:entry",
-      "singleton": false,
-      "file": "records/01KWBWVQ9BC7FNK979HJCZ886M.json",
-      "sha": "0db0e31fd3abba19d29e4daf8a6682efa185fb14",
-      "updatedAt": "2026-07-01T03:18:03.084Z"
-    },
-    {
-      "id": "01KWBXDR16R40GCTRGDKB779MB",
-      "type": "finder:entry",
-      "singleton": false,
-      "file": "records/01KWBXDR16R40GCTRGDKB779MB.json",
-      "sha": "5ce794ce670958ae5661f2a4bb5e99a98abe392e",
-      "updatedAt": "2026-07-01T03:17:55.727Z"
-    },
-    {
-      "id": "01KWBXKTCVN114MKG6DB4SYZ1B",
-      "type": "finder:entry",
-      "singleton": false,
-      "file": "records/01KWBXKTCVN114MKG6DB4SYZ1B.json",
-      "sha": "248e7f32d5cd73a8977f01d7c447b89b39434a99",
-      "updatedAt": "2026-07-01T03:17:58.144Z"
-    },
-    {
-      "id": "01KWBXRJ6JNY9BZ6K2272DP96M",
-      "type": "finder:entry",
-      "singleton": false,
-      "file": "records/01KWBXRJ6JNY9BZ6K2272DP96M.json",
-      "sha": "91308dc395aaa613f83bf11c4ce51e9eedddab1f",
-      "updatedAt": "2026-07-01T03:17:53.159Z"
-    },
-    {
-      "id": "01KWC0RH6HK6Q5W7Q31VMC3QCX",
-      "type": "finder:entry",
-      "singleton": false,
-      "file": "records/01KWC0RH6HK6Q5W7Q31VMC3QCX.json",
-      "sha": "faa1ddd68bda38ba0753e05035b7f0870d348826",
-      "updatedAt": "2026-07-01T03:18:00.805Z"
-    },
-    {
       "id": "01KWC1C8G4GZ5YJT1420907BY7",
       "type": "finder:entry",
       "singleton": false,
@@ -282,5 +242,5 @@
       "updatedAt": "2026-07-01T02:35:12.453Z"
     }
   ],
-  "sha": "745ce5a9288f58ae503ffde7fc1b24ccfc0f92e0"
+  "sha": "3f2220df40e55dfd885f7f386bcd6437e46ed350"
 }
