@@ -3,12 +3,15 @@
   "type": "finder:entry",
   "data": {
     "name": "微信图片_2026-06-03_175033_310.jpg",
-    "parentId": "01KWBMBWVVHHG1M5M7YHWJVRWY",
+    "parentId": "trash",
     "kind": "file",
     "ext": "jpg",
     "size": 176916,
-    "uploading": true
+    "uploading": true,
+    "trashed": true,
+    "trashedAt": "2026-07-01T03:17:54.698Z",
+    "originalParentId": "01KWBMBWVVHHG1M5M7YHWJVRWY"
   },
   "createdAt": "2026-06-30T09:23:05.894Z",
-  "updatedAt": "2026-06-30T09:25:29.357Z"
+  "updatedAt": "2026-07-01T03:17:55.727Z"
 }
