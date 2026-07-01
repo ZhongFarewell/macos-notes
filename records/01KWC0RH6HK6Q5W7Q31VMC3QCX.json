@@ -3,12 +3,15 @@
   "type": "finder:entry",
   "data": {
     "name": "4af3b27b1b8df447559d802ad905c1fb.mp4",
-    "parentId": "01KWBMBWVX6TKCW3TYT1Q51QAG",
+    "parentId": "trash",
     "kind": "file",
     "ext": "mp4",
     "size": 931559,
-    "uploading": true
+    "uploading": true,
+    "trashed": true,
+    "trashedAt": "2026-07-01T03:18:00.805Z",
+    "originalParentId": "01KWBMBWVX6TKCW3TYT1Q51QAG"
   },
   "createdAt": "2026-06-30T10:21:25.073Z",
-  "updatedAt": "2026-06-30T10:21:25.074Z"
+  "updatedAt": "2026-07-01T03:18:00.805Z"
 }
